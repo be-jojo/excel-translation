@@ -1,0 +1,1 @@
+export const LOAD_INPUT_TEXT = 'LOAD_INPUT_TEXT';
